@@ -15,16 +15,6 @@ A secure and customizable **password generator** built in Python to practice and
 * Validate password constraints using regex and Python's `all()` function.
 * Efficient memory usage with generator expressions.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/regex-password-generator.git
-cd regex-password-generator
-```
-
-2. Make sure Python 3 is installed.
 
 ## Usage
 
