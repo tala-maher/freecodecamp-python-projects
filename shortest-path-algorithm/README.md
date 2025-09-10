@@ -44,6 +44,6 @@ shortest_path(my_graph, 'A', 'F')
 
 ---
 
-## ✅ Output:
+# ✅ Output:
 A-F distance: 7
 Path: A -> B -> D -> E -> F
